@@ -241,4 +241,4 @@ This repository serves as the official landing page for SyncToy. The software is
 **Get the most recent version of SyncToy today!**
 
 ---
-**Last updated:** 2026-09-28 16:18:33 UTC
+**Last updated:** 2026-09-28 22:20:20 UTC
